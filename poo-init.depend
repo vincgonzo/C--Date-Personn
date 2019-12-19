@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575469472 source:c:\xampp\htdocs\c-cplusplus\poo-init\main.cpp
+	<iostream>
+	"src/Date.h"
+
+1575469735 c:\xampp\htdocs\c-cplusplus\poo-init\src\date.h
+	<string>
+	<vector>
+	<iostream>
+
+1575469264 source:c:\xampp\htdocs\c-cplusplus\poo-init\src\date.cpp
+	"Date.h"
+
+1575469472 source:c:\xampp\htdocs\c-cplusplus\c++\c--date-personn\main.cpp
+	<iostream>
+	"src/Date.h"
+
+1575469735 c:\xampp\htdocs\c-cplusplus\c++\c--date-personn\src\date.h
+	<string>
+	<vector>
+	<iostream>
+
